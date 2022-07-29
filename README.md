@@ -18,7 +18,7 @@
 
 <img align="left" alt="css" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" style="padding:10px;" />
 
-<img align="left" alt="js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/640px-Javascript_badge.svg.png" style="padding:10px;" />
+<img align="left" alt="js" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/640px-Javascript_badge.svg.png" style="padding:10px;" />
 
 <img align="left" alt="php" width="40px" src="https://www.svgrepo.com/show/303208/php-1-logo.svg" style="padding-top:10px;" />
 
