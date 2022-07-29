@@ -14,6 +14,6 @@
    
 ### Languages and Tools:
 
-<img align="left" alt="MySQL" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" style="margin-right:10px;" />]
+<img align="left" alt="MySQL" width="30px" src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" style="margin-right:10px;" />
 
 <img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" style="margin-right:10px;" />
