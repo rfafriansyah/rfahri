@@ -14,6 +14,6 @@
    
 ### Languages and Tools:
 
-<img align="left" alt="MySQL" width="30px" src="https://www.nesabamedia.com/wp-content/uploads/2019/11/Pengertian-JavaScript.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" style="padding-right:10px;" />
 
-<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" style="padding-right:10px;" />
