@@ -8,9 +8,9 @@
 ## Education:
 
 #### 1. [Telkom University](https://telkomuniversity.ac.id/) | Bachelor of Electrical Engineering | Bandung `2017-2021`
-   - Head of Entrepreneurship Departement `2020 -2021`
-   - Laboratory Research Assistant `2019 - 2020`
-   - Public Relation Staff of Electro Premier League `2019`
+   - Head of Entrepreneurship Departement             - (`2020 - 2021`)
+   - Laboratory Research Assistant                    - (`2019 - 2020`)
+   - Public Relation Staff of Electro Premier League  - (`2019`)
    
 ### Languages:
 
