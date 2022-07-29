@@ -22,4 +22,4 @@
 
 <img align="left" alt="php" width="40px" src="https://www.svgrepo.com/show/303208/php-1-logo.svg" style="padding-top:10px;" />
 
-<img align="left" alt="java" width="70px" src="https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper-thumbnail.png" style="padding:10px;" />
+<img align="left" alt="java" width="70px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="padding:10px;" />
