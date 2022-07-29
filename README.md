@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## Here are some ideas to get you started:
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning Javas and Javascript
 - 👯 I’m looking to collaborate as Web Development
 - 🤔 I’m looking for suggest for Web Development
 
