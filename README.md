@@ -20,6 +20,6 @@
 
 <img align="left" alt="js" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/640px-Javascript_badge.svg.png" style="padding:10px;" />
 
-<img align="left" alt="php" width="50px" src="https://www.svgrepo.com/show/303208/php-1-logo.svg" style="padding-top:10px;" />
+<img align="left" alt="php" width="40px" src="https://www.svgrepo.com/show/303208/php-1-logo.svg" style="padding-top:10px;" />
 
 <img align="left" alt="java" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Java_logo_2022.jpg/640px-Java_logo_2022.jpg" style="padding:10px;" />
