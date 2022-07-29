@@ -22,4 +22,4 @@
 
 <img align="left" alt="php" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/640px-PHP-logo.svg.png" style="padding-right:10px;" />
 
-<img align="left" alt="java" width="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Java_logo_2022.jpg/640px-Java_logo_2022.jpg" style="padding-right:10px;" />
+<img align="left" alt="java" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Java_logo_2022.jpg/640px-Java_logo_2022.jpg" style="padding-right:10px;" />
