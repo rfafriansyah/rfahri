@@ -14,4 +14,4 @@
    
 ### Languages:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfahri&theme=highcontrast&show_icons=true&layout=compact" height=180 />>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfahri&theme=highcontrast&show_icons=true&layout=compact" height=200 />
