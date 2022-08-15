@@ -14,14 +14,4 @@
    
 ### Languages:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfahri&theme=highcontrast&show_icons=true&layout=compact" height=180 />
-
-<img align="left" alt="html" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png" style="padding:10px;" />
-
-<img align="left" alt="css" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" style="padding:10px;" />
-
-<img align="left" alt="js" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/640px-Javascript_badge.svg.png" style="padding:10px;" />
-
-<img align="left" alt="php" width="40px" src="https://www.svgrepo.com/show/303208/php-1-logo.svg" style="padding-top:10px;" />
-
-<img align="left" alt="java" width="33px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" style="padding:10px;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfahri&theme=highcontrast&show_icons=true&layout=compact" height=180 />>
