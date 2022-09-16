@@ -1,9 +1,9 @@
 # Hi there 👋
 
 ## Here are some ideas to get you started:
-- 🌱 I’m currently learning Java and Javascript
-- 👯 I’m looking to collaborate as Web Development
-- 🤔 I’m looking for suggest for Web Development
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate as Software Development in Test
+- 🤔 I’m looking for suggest for Software Development in Test
    
 ### Languages:
 
